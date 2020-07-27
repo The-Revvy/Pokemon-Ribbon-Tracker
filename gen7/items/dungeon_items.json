@@ -1,0 +1,568 @@
+[
+  // Cool Contest Ribbons
+ {
+    "name": "Cool Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen3/cool1.png",
+        "img_mods": "@disabled",
+        "codes": "cool"
+      },
+      {
+        "img": "images/gen3/cool1.png"
+      },
+      {
+        "img": "images/gen3/cool2.png",
+      },
+      {
+        "img": "images/gen3/cool3.png",
+      },
+      {
+        "img": "images/gen3/cool4.png",
+      },
+    ]
+  },
+  // Beauty Contest Ribbons
+ {
+    "name": "Beauty Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen3/beauty1.png",
+        "img_mods": "@disabled",
+        "codes": "beauty"
+      },
+      {
+        "img": "images/gen3/beauty1.png"
+      },
+      {
+        "img": "images/gen3/beauty2.png",
+      },
+      {
+        "img": "images/gen3/beauty3.png",
+      },
+      {
+        "img": "images/gen3/beauty4.png",
+      },
+    ]
+  },
+  // Cute Contest Ribbons
+ {
+    "name": "Cute Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen3/cute1.png",
+        "img_mods": "@disabled",
+        "codes": "cute"
+      },
+      {
+        "img": "images/gen3/cute1.png"
+      },
+      {
+        "img": "images/gen3/cute2.png",
+      },
+      {
+        "img": "images/gen3/cute3.png",
+      },
+      {
+        "img": "images/gen3/cute4.png",
+      },
+    ]
+  },
+  // Smart Contest Ribbons
+ {
+    "name": "Smart Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen3/smart1.png",
+        "img_mods": "@disabled",
+        "codes": "smart"
+      },
+      {
+        "img": "images/gen3/smart1.png"
+      },
+      {
+        "img": "images/gen3/smart2.png",
+      },
+      {
+        "img": "images/gen3/smart3.png",
+      },
+      {
+        "img": "images/gen3/smart4.png",
+      },
+    ]
+  },
+  // Tough Contest Ribbons
+ {
+    "name": "Tough Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen3/tough1.png",
+        "img_mods": "@disabled",
+        "codes": "tough"
+      },
+      {
+        "img": "images/gen3/tough1.png"
+      },
+      {
+        "img": "images/gen3/tough2.png",
+      },
+      {
+        "img": "images/gen3/tough3.png",
+      },
+      {
+        "img": "images/gen3/tough4.png",
+      },
+    ]
+  },
+  // Artist Ribbon
+  {
+    "name": "Artist Ribbon",
+    "type": "toggle",
+    "img": "images/gen3/artist.png",
+    "codes": "artist"
+  },
+  // Champion Ribbon
+  {
+    "name": "Champion Ribbon",
+    "type": "toggle",
+    "img": "images/gen3/champion.png",
+    "codes": "champion"
+  },
+  // Winning Ribbon
+  {
+    "name": "Winning Ribbon",
+    "type": "toggle",
+    "img": "images/gen3/winning.png",
+    "codes": "winning"
+  },
+  // Victory Ribbon
+  {
+    "name": "Victory Ribbon",
+    "type": "toggle",
+    "img": "images/gen3/victory.png",
+    "codes": "victory"
+  },
+  // Earth Ribbon
+  {
+    "name": "Earth Ribbon",
+    "type": "toggle",
+    "img": "images/gen3/earth.png",
+    "codes": "earth"
+  },
+  // National Ribbon
+  {
+    "name": "National Ribbon",
+    "type": "toggle",
+    "img": "images/gen3/national.png",
+    "codes": "national"
+  },
+  // Effort Ribbon
+  {
+    "name": "Effort Ribbon",
+    "type": "toggle",
+    "img": "images/gen3/effort.png",
+    "codes": "effort"
+  },
+  // Sinnoh Cool Contest Ribbons
+ {
+    "name": "Sinnoh Cool Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen4/scool1.png",
+        "img_mods": "@disabled",
+        "codes": "scool"
+      },
+      {
+        "img": "images/gen4/scool1.png"
+      },
+      {
+        "img": "images/gen4/scool2.png",
+      },
+      {
+        "img": "images/gen4/scool3.png",
+      },
+      {
+        "img": "images/gen4/scool4.png",
+      },
+    ]
+  },
+  // Sinnoh Cool Contest Ribbons
+ {
+    "name": "Sinnoh Beauty Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen4/sbeauty1.png",
+        "img_mods": "@disabled",
+        "codes": "sbeauty"
+      },
+      {
+        "img": "images/gen4/sbeauty1.png"
+      },
+      {
+        "img": "images/gen4/sbeauty2.png",
+      },
+      {
+        "img": "images/gen4/sbeauty3.png",
+      },
+      {
+        "img": "images/gen4/sbeauty4.png",
+      },
+    ]
+  },
+  // Sinnoh Cool Contest Ribbons
+ {
+    "name": "Sinnoh Cute Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen4/scute1.png",
+        "img_mods": "@disabled",
+        "codes": "scute"
+      },
+      {
+        "img": "images/gen4/scute1.png"
+      },
+      {
+        "img": "images/gen4/scute2.png",
+      },
+      {
+        "img": "images/gen4/scute3.png",
+      },
+      {
+        "img": "images/gen4/scute4.png",
+      },
+    ]
+  },
+  // Sinnoh Smart Contest Ribbons
+ {
+    "name": "Sinnoh Smart Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen4/ssmart1.png",
+        "img_mods": "@disabled",
+        "codes": "ssmart"
+      },
+      {
+        "img": "images/gen4/ssmart1.png"
+      },
+      {
+        "img": "images/gen4/ssmart2.png",
+      },
+      {
+        "img": "images/gen4/ssmart3.png",
+      },
+      {
+        "img": "images/gen4/ssmart4.png",
+      },
+    ]
+  },
+  // Sinnoh Tough Contest Ribbons
+ {
+    "name": "Sinnoh Tough Contest Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen4/stough1.png",
+        "img_mods": "@disabled",
+        "codes": "stough"
+      },
+      {
+        "img": "images/gen4/stough1.png"
+      },
+      {
+        "img": "images/gen4/stough2.png",
+      },
+      {
+        "img": "images/gen4/stough3.png",
+      },
+      {
+        "img": "images/gen4/stough4.png",
+      },
+    ]
+  },
+  // Gorgeous, Royal Ribbons
+ {
+    "name": "Gorgeous, Royal Ribbons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/gen4/gorgeous.png",
+        "img_mods": "@disabled",
+        "codes": "gorroy"
+      },
+      {
+        "img": "images/gen4/gorgeous.png"
+      },
+      {
+        "img": "images/gen4/royal.png",
+      },
+      {
+        "img": "images/gen4/gorgeousroyal.png",
+      },
+    ]
+  },
+  // Ability Ribbon
+  {
+    "name": "Ability Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/ability.png",
+    "codes": "ability"
+  },
+  // Great Ability Ribbon
+  {
+    "name": "Great Ability Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/greatability.png",
+    "codes": "grability"
+  },
+  // Double Ability Ribbon
+  {
+    "name": "Double Ability Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/doubleability.png",
+    "codes": "dblability"
+  },
+  // Multi Ability Ribbon
+  {
+    "name": "Multi Ability Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/multiability.png",
+    "codes": "mltability"
+  },
+  // Pair Ability Ribbon
+  {
+    "name": "Pair Ability Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/pairability.png",
+    "codes": "prability"
+  },
+  // World Ability Ribbon
+  {
+    "name": "World Ability Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/worldability.png",
+    "codes": "good luck"
+  },
+  // Sinnoh Champion Ribbon
+  {
+    "name": "Sinnoh Champion Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/schampion.png",
+    "codes": "schampion"
+  },
+  // Footprint Ribbon
+  {
+    "name": "Footprint Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/footprint.png",
+    "codes": "feet"
+  },
+  // Alert Ribbon
+  {
+    "name": "Alert Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/alert.png",
+    "codes": "alert"
+  },
+  // Shock Ribbon
+  {
+    "name": "Shock Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/shock.png",
+    "codes": "shock"
+  },
+  // Downcast Ribbon
+  {
+    "name": "Downcast Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/downcast.png",
+    "codes": "downcast"
+  },
+  // Careless Ribbon
+  {
+    "name": "Careless Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/careless.png",
+    "codes": "careless"
+  },
+  // Relax Ribbon
+  {
+    "name": "Relax Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/relax.png",
+    "codes": "relax"
+  },
+  // Snooze Ribbon
+  {
+    "name": "Snooze Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/snooze.png",
+    "codes": "snooze"
+  },
+  // Smile Ribbon
+  {
+    "name": "Smile Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/smile.png",
+    "codes": "smile"
+  },
+  // Legend Ribbon
+  {
+    "name": "Legend Ribbon",
+    "type": "toggle",
+    "img": "images/gen4/legend.png",
+    "codes": "legend"
+  },
+  // ORAS Beauty Ribbon
+  {
+    "name": "ORAS Beauty Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/beautyoras.png",
+    "codes": "orasbeauty"
+  },
+  // ORAS Cool Ribbon
+  {
+    "name": "ORAS Cool Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/cooloras.png",
+    "codes": "orascool"
+  },
+  // ORAS Tough Ribbon
+  {
+    "name": "ORAS Tough Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/toughoras.png",
+    "codes": "orastough"
+  },
+  // ORAS Clkever Ribbon
+  {
+    "name": "ORAS Clever Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/cleveroras.png",
+    "codes": "orasclever"
+  },
+  // ORAS Cute Ribbon
+  {
+    "name": "ORAS Cute Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/cuteoras.png",
+    "codes": "orascute"
+  },
+  // Contest Star Ribbon
+  {
+    "name": "Contest Star Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/conteststar.png",
+    "codes": "star"
+  },
+  // Best Friends Ribbon
+  {
+    "name": "Best Friends Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/bestfriends.png",
+    "codes": "friend"
+  },
+  // Skillful Battler Ribbon
+  {
+    "name": "Skillful Battler Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/skillfulbattler.png",
+    "codes": "skillful"
+  },
+  // Expert Battler Ribbon
+  {
+    "name": "Expert Battler Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/expertbattler.png",
+    "codes": "expert"
+  },
+  // Hoenn Champion Ribbon
+  {
+    "name": "Hoenn Champion Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/hchampion.png",
+    "codes": "hchampion"
+  },
+  // Kalos Champion Ribbon
+  {
+    "name": "Kalos Champion Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/kchampion.png",
+    "codes": "kchampion"
+  },
+  // Training Ribbon
+  {
+    "name": "Training Ribbon",
+    "type": "toggle",
+    "img": "images/gen6/training.png",
+    "codes": "training"
+  },
+  // Alola Champion Ribbon
+  {
+    "name": "Alola Champion Ribbon",
+    "type": "toggle",
+    "img": "images/gen7/achampion.png",
+    "codes": "achampion"
+  },
+  // Battle Tree Great Ribbon
+  {
+    "name": "Battle Tree Great Ribbon",
+    "type": "toggle",
+    "img": "images/gen7/treegreat.png",
+    "codes": "tree1"
+  },
+  // Battle Tree Master Ribbon
+  {
+    "name": "Battle Tree Master Ribbon",
+    "type": "toggle",
+    "img": "images/gen7/treemaster.png",
+    "codes": "tree2"
+  },
+  // Battle Royal Master Ribbon
+  {
+    "name": "Battle Royal Master Ribbon",
+    "type": "toggle",
+    "img": "images/gen7/royal.png",
+    "codes": "royal"
+  },
+  // Galar Champion Ribbon
+  {
+    "name": "Galar Champion Ribbon",
+    "type": "toggle",
+    "img": "images/gen8/gchampion.png",
+    "codes": "gchampion"
+  },
+  // Tower Master Ribbon
+  {
+    "name": "Tower Master Ribbon",
+    "type": "toggle",
+    "img": "images/gen8/gtower.png",
+    "codes": "gtower"
+  },
+  // Master Rank Ribbon
+  {
+    "name": "Master Rank Ribbon",
+    "type": "toggle",
+    "img": "images/gen8/master.png",
+    "codes": "master"
+  }
+]
