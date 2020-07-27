@@ -1,0 +1,24 @@
+{
+  "name": "Pokemon Ribbon Tracker",
+  "game_name": "Pokemon",
+  "package_version": "1.0",
+  "package_uid": "ribbon_revvy",
+  "author": "Revvy",
+  "variants": {
+    "gen3": {
+      "display_name": "Third Generation (RSE+Colosseum/XD)"
+    },
+    "gen4": {
+      "display_name": "Fourth Generation (DPPt+HGSS)"
+    },
+    "gen6": {
+      "display_name": "Sixth Generation (XY+ORAS)"
+    },
+    "gen7": {
+      "display_name": "Seventh Generation (SM/USUM)"
+    },
+    "gen8": {
+      "display_name": "Eighth Generation (SwSh)"
+    }
+  }
+}

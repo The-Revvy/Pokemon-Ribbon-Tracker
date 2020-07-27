@@ -1,0 +1,8 @@
+{
+    "map_enabled": false,
+    "auto_pin_capturing_locations": false,
+    "auto_unpin_on_clear": true,
+    "allow_resize": false,
+    "layout_swap_left_right": false,
+    "disabled_image_filter": "dim,halfdim",
+}
