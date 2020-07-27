@@ -1,0 +1,55 @@
+{
+    "shared_item_grid": {
+	      "type": "array",
+      "orientation": "vertical",
+      "content": [
+        {
+      "type": "array",
+      "orientation": "horizontal",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "content": [
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+			  "item_size": 36,
+              "item_margin": "0,0,10,5",
+              "rows": [
+                [ "national", "earth", "effort", "champion", "winning", "victory"],
+              ]
+            },
+			{
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,0,10,5",
+                      "item_height": 50,
+					  "item_width": 36,
+					  "margin": "0,0",
+                      "rows": [
+						["cool", "beauty", "cute", "smart", "tough", "artist"],
+                      ]
+			},
+			 ]
+		},
+      ]
+	  },
+
+		 
+		]
+    },
+    "tracker_default": {
+      "type": "container",
+      "width": 300,
+      //"height": 250,
+      "background": "#212121",
+      "content": {
+        "type": "layout",
+        "dropshadow": true,
+        "margin": 10,
+        "key": "shared_item_grid"
+      }
+    }
+  }
+}
